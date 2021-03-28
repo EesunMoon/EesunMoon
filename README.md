@@ -1,10 +1,10 @@
 #👑 About me 👑
->🙋🏻‍♀️ Moon Eesun
->🎂 2000.10.18
->🏡 Gwangjin-gu, Seoul, Korea
->🏫 Sejong.Univ
->🎓¹. major : Department of Intelligent Mechanical Engineering majoring in Smart-Device Engineering
->🎓₂. dual major : Data Science
+🙋🏻‍♀️ Moon Eesun<br>
+🎂 2000.10.18<br>
+🏡 Gwangjin-gu, Seoul, Korea<br>
+🏫 Sejong.Univ<br>
+🎓¹. major : Department of Intelligent Mechanical Engineering majoring in Smart-Device Engineering<br>
+🎓₂. dual major : Data Science<br>
 
 
 <!---
