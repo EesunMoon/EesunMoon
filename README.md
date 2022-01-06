@@ -5,6 +5,8 @@
 🏫 Sejong.Univ<br>
 🎓¹. major : Department of Intelligent Mechanical Engineering majoring in Smart-Device Engineering<br>
 🎓₂. dual major : Data Science<br>
+🎯. goal : NLP, Emotion-Recognition
+📚. language : Python, C, HTML, CSS, Javascript
 
 
 <!---
