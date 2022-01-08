@@ -1,12 +1,12 @@
 # 👑 About me 👑
-🙋🏻‍♀️ Moon Eesun<br>
-🎂 2000.10.18<br>
-🏡 Gwangjin-gu, Seoul, Korea<br>
-🏫 Sejong.Univ<br>
-🎓¹. major : Department of Intelligent Mechanical Engineering majoring in Smart-Device Engineering<br>
-🎓₂. dual major : Data Science<br>
-🎯. goal : NLP, Emotion-Recognition<br>
-📚. language : Python, C, HTML, CSS, Javascript<br>
+🙋🏻‍♀️ NAME : Moon Eesun<br>
+🎂 BIRTH : 2000.10.18<br>
+🏡 LIVE : Gwangjin-gu, Seoul, Korea<br>
+🏫 UNIVERSITY : Sejong.Univ<br>
+🎓¹. MAJOR : Department of Intelligent Mechanical Engineering majoring in Smart-Device Engineering<br>
+🎓₂. DUAL MAJOR : Data Science<br>
+🎯. GOAL : NLP, Emotion-Recognition<br>
+📚. LANGUAGE : Python, C, HTML, CSS, Javascript<br>
 
 
 <!---
