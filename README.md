@@ -5,7 +5,7 @@
 🏫 **UNIVERSITY** : Sejong.Univ<br>
 🎓¹. **MAJOR** : Department of Intelligent Mechanical Engineering majoring in Smart-Device Engineering<br>
 🎓₂. **DUAL MAJOR** : Data Science<br>
-📚. **LANGUAGE** : Python, C, HTML, CSS, Javascript<br>
+📚. **LANGUAGE** : Python, C, HTML, CSS, Javascript, JAVA<br>
 💬. **Field** : Data Analysis, Natural Language Processing(NLP), Emotion Recognization<br>
 
 
