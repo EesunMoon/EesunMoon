@@ -4,7 +4,7 @@ as well as a **Candidate for Bachelor** of Engineering in Intelligent Mechatroni
 
 Research Interests
 -
-Artificial Intelligence, Affective Computing, Human-Cobot Interaction, Natural Language Processing(NLP), Recommender System
+Artificial Intelligence, Affective Computing, Human-Computer Interaction, Natural Language Processing(NLP), Recommender System
 
 
 Research Experience
