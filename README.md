@@ -1,6 +1,6 @@
-# Eesun Moon - AI and Data Science Enthusiast
+# Eesun Moon - ML/AI and Data Science Enthusiast
 
-I am a **Master's student** at Columbia University, pursuing a Master of Science in Computer Science. I also hold a **Bachelor of Engineering** in Intelligent Mechatronics Engineering and Data Science from Sejong University, hold in February 2024.
+I am currently pursuing a **Master of Science in Computer Science** at Columbia University, with a strong foundation in Machine Learning, Artificial Intelligence, and Natural Language Processing. I also hold a **Bachelor of Engineering** in Intelligent Mechatronics Engineering and Data Science from Sejong University, hold in February 2024.
 
 ## Research Interests
 Machine Learning, Artificial Intelligence, Data Science, Affective Computing, Natural Language Processing (NLP), Multimodal Processing
@@ -20,26 +20,34 @@ I had worked as a **Research Assistant** at the **Mobile Intelligent Embedded Sy
 ## Professional Experience
 
 ### Machine Learning Engineer - Humaner (Mar 2024 – May 2024)
-- Developed a personalized support message generation system using **LangChain**, leveraging **OpenAI** and **RAG algorithms** to enhance message relevance and accuracy.
-- Deployed using **Docker** and **AWS EC2**, ensuring communication during live events and delivering personalized support messages to over 500 attendees.
+- Developed a personalized support message generation system using **LangChain**, leveraging **OpenAI** and **RAG algorithms** to enhance message relevance and accuracy, while applying prompt engineering techniques to fine-tune model outputs
+- Deployed using **Docker** and **AWS EC2**, collaborating with front-end engineers to ensure communication during live photo events.
+- Delivered system to 500+ attendees at live photo events in professional soccer stadiums, increasing **user satisfaction by 20%**.
 
 ### Research Assistant - Mobile Intelligent Embedded System Laboratory, Sejong University (Sep 2021 – Mar 2024)
-- Led research on multimodal signal processing, integrating **HR**, **EEG**, **speech**, and **image** data to enhance emotion recognition accuracy up to **99.68%**.
-- Optimized and deployed models on **Mobilint's NPU board (MLA100)**, reducing power consumption by **3.12 times** and latency by **1.48 times**.
-- Presented findings at major conferences including IEEE and ICROS.
+- Led multimodal signal processing projects for government agencies and corporations, utilizing **TensorFlow** and **MongoDB** on **Linux**
+- Enhanced deep learning models for emotion recognition by integrating HR, EEG, speech, and image data through a score-based multimodal fusion method, achieving **99.68% classification accuracy**.
+- Optimized and embedded multimodal emotion recognition models into **NPUs** (Mobilint’s MLA100) for On-device AI, reducing **average power consumption by 3.12 times** and **latency by 1.48 times** for edge computing.
+- Submitted papers to **IEEE** (Institute of Electrical and Electronics Engineers) and **NCAA** (Neural Computing and Applications), presented a poster at **ICROS** (Institute of Control, Robotics, and Systems), and delivered live demonstrations at **KIST** (Korea Institute of Science and Technology).
 
 ## Projects
 
 ### Outfit Coordination Recommender System (Aug 2023 – Sep 2023)
-- Developed a **Generative AI-based** outfit recommender system by fine-tuning large language models using **KoAlpaca**.
-- Achieved **80% satisfaction rate** from users compared to previous models.
+- Developed a generative AI-based outfit recommender system by fine-tuning large language models for personalized suggestions
+- Constructed and preprocessed fine-tuning dataset of approximately 28,000 Q&A pairs using **KoNLP** to optimize **KoAlpaca** with **LoRA**, achieving **80% satisfaction rate** from faculty and peers compared to previous models.
+
 
 ### Spam Detection on Social Networking Services (Mar 2022 – Jun 2022)
-- Spearheaded an NLP project to classify social media posts as potential advertisements, achieving **0.8 cosine similarity** for classification.
-- Automated data collection using **Selenium** and analyzed text data using **KoNLPy**, **BERT**, and other embedding techniques.
+- Spearheaded an information retrieval project using text analysis and NLP to classify social media posts as potential advertisements.
+- Automated data collection with **Selenium**, analyzed text data sources using **KoNLPy**, and compared embedding techniques (TF-IDF, FastText, Doc2Vec, ELMo, BERT), achieving **0.8 cosine similarity** for advertisement classification.
+- Implemented ranking algorithms to sort posts by decreasing likelihood of being advertisements, leading to **30% increase** in detection
+- Awarded **1st place** in graduation project competition for demonstrating scalable spam detection solution in unstructured data.
+
 
 ### Stock Sentiment Analysis and Quantitative Modeling (Sep 2021 – Mar 2022)
-- Analyzed the correlation between economic news and stock price trends, building quantitative models using **PyTorch** and **LSTM** for trend prediction.
+- Correlated stock prices with financial statements from 2020 to 2021 for 50 companies, building quantitative models using **PyTorch** and comparing linear regression with LSTM for stock trend predictions
+- Built a sentiment dictionary by extracting keywords from economic news articles using **BeautifulSoup**, analyzing stock price fluctuations within three days of publication to assess impact of keyword sentiment scores on stock prices
+
 
 <!---
 MoonEeSun/MoonEeSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
