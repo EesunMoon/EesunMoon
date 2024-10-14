@@ -1,12 +1,12 @@
 # Eesun Moon - ML/AI and Data Science Enthusiast
 
-I am currently pursuing a **Master of Science in Computer Science** at Columbia University, with a strong foundation in Machine Learning, Artificial Intelligence, and Natural Language Processing. I also hold a **Bachelor of Engineering** in Intelligent Mechatronics Engineering and Data Science from Sejong University, hold in February 2024.
+I am currently pursuing a **Master of Science in Computer Science** at Columbia University, with a strong foundation in Machine Learning, Artificial Intelligence, and Natural Language Processing. I received my **Bachelor of Engineering** in Intelligent Mechatronics Engineering and Data Science from Sejong University in February 2024.
 
 ## Research Interests
 Machine Learning, Artificial Intelligence, Data Science, Affective Computing, Natural Language Processing (NLP), Multimodal Processing
 
 ## Research Experience
-I had worked as a **Research Assistant** at the **Mobile Intelligent Embedded System Laboratory** at Sejong University since September 2021. Under the supervision of **Professor Hyung Seok Kim**, I had led several projects in AI and embedded systems, focusing on multimodal emotion recognition, edge computing, and human-robot interaction.
+I worked as a **Research Assistant** at the **Mobile Intelligent Embedded System Laboratory** at Sejong University from September 2021 to March 2024, under the supervision of **Professor Hyung Seok Kim**. During this time, I led several projects in AI and embedded systems, focusing on multimodal emotion recognition, edge computing, and human-robot interaction.
 
 ## Publications
 | No. | Title | Status |
