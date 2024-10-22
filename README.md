@@ -19,12 +19,14 @@ I worked as a **Research Assistant** at the **Mobile Intelligent Embedded System
 
 ## Professional Experience
 
-### Machine Learning Engineer - Humaner (Mar 2024 – May 2024)
+### Machine Learning Engineer [📎]((https://github.com/EesunMoon/genai_soccer))
+#### Humaner (Mar 2024 – May 2024)
 - Developed a personalized support message generation system using **LangChain**, leveraging **OpenAI** and **RAG algorithms** to enhance message relevance and accuracy, while applying prompt engineering techniques to fine-tune model outputs
 - Deployed using **Docker** and **AWS EC2**, collaborating with front-end engineers to ensure communication during live photo events.
 - Delivered system to 500+ attendees at live photo events in professional soccer stadiums, increasing **user satisfaction by 20%**.
 
-### Research Assistant - Mobile Intelligent Embedded System Laboratory, Sejong University (Sep 2021 – Mar 2024) [📎](https://github.com/EesunMoon/On-device_Multimodal_ER)
+### Research Assistant [📎](https://github.com/EesunMoon/On-device_Multimodal_ER)
+#### Mobile Intelligent Embedded System Laboratory, Sejong University - (Sep 2021 – Mar 2024)
 - Led multimodal signal processing projects for government agencies and corporations, utilizing **TensorFlow** and **MongoDB** on **Linux**
 - Enhanced deep learning models for emotion recognition by integrating HR, EEG, speech, and image data through a score-based multimodal fusion method, achieving **99.68% classification accuracy**.
 - Optimized and embedded multimodal emotion recognition models into **NPUs** (Mobilint’s MLA100) for On-device AI, reducing **average power consumption by 3.12 times** and **latency by 1.48 times** for edge computing.
@@ -32,19 +34,19 @@ I worked as a **Research Assistant** at the **Mobile Intelligent Embedded System
 
 ## Projects
 
-### Outfit Coordination Recommender System (Aug 2023 – Sep 2023)
+### Outfit Coordination Recommender System (Aug 2023 – Sep 2023) [📎](https://github.com/EesunMoon/genAI_Cor-Recom)
 - Developed a generative AI-based outfit recommender system by fine-tuning large language models for personalized suggestions
 - Constructed and preprocessed fine-tuning dataset of approximately 28,000 Q&A pairs using **KoNLP** to optimize **KoAlpaca** with **LoRA**, achieving **80% satisfaction rate** from faculty and peers compared to previous models.
 
 
-### Spam Detection on Social Networking Services (Mar 2022 – Jun 2022)
+### Spam Detection on Social Networking Services (Mar 2022 – Jun 2022) [📎](https://github.com/EesunMoon/spam_review_detection)
 - Spearheaded an information retrieval project using text analysis and NLP to classify social media posts as potential advertisements.
 - Automated data collection with **Selenium**, analyzed text data sources using **KoNLPy**, and compared embedding techniques (TF-IDF, FastText, Doc2Vec, ELMo, BERT), achieving **0.8 cosine similarity** for advertisement classification.
 - Implemented ranking algorithms to sort posts by decreasing likelihood of being advertisements, leading to **30% increase** in detection
 - Awarded **1st place** in graduation project competition for demonstrating scalable spam detection solution in unstructured data.
 
 
-### Stock Sentiment Analysis and Quantitative Modeling (Sep 2021 – Mar 2022)
+### Stock Sentiment Analysis and Quantitative Modeling (Sep 2021 – Mar 2022) [📎](https://github.com/EesunMoon/JENQ)
 - Correlated stock prices with financial statements from 2020 to 2021 for 50 companies, building quantitative models using **PyTorch** and comparing linear regression with LSTM for stock trend predictions
 - Built a sentiment dictionary by extracting keywords from economic news articles using **BeautifulSoup**, analyzing stock price fluctuations within three days of publication to assess impact of keyword sentiment scores on stock prices
 
