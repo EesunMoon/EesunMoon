@@ -24,7 +24,7 @@ I worked as a **Research Assistant** at the **Mobile Intelligent Embedded System
 - Deployed using **Docker** and **AWS EC2**, collaborating with front-end engineers to ensure communication during live photo events.
 - Delivered system to 500+ attendees at live photo events in professional soccer stadiums, increasing **user satisfaction by 20%**.
 
-### Research Assistant - Mobile Intelligent Embedded System Laboratory, Sejong University (Sep 2021 – Mar 2024)
+### Research Assistant - Mobile Intelligent Embedded System Laboratory, Sejong University (Sep 2021 – Mar 2024) [📎](https://github.com/EesunMoon/On-device_Multimodal_ER)
 - Led multimodal signal processing projects for government agencies and corporations, utilizing **TensorFlow** and **MongoDB** on **Linux**
 - Enhanced deep learning models for emotion recognition by integrating HR, EEG, speech, and image data through a score-based multimodal fusion method, achieving **99.68% classification accuracy**.
 - Optimized and embedded multimodal emotion recognition models into **NPUs** (Mobilint’s MLA100) for On-device AI, reducing **average power consumption by 3.12 times** and **latency by 1.48 times** for edge computing.
