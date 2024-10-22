@@ -26,7 +26,7 @@ I worked as a **Research Assistant** at the **Mobile Intelligent Embedded System
 - Delivered system to 500+ attendees at live photo events in professional soccer stadiums, increasing **user satisfaction by 20%**.
 
 ### Research Assistant [📎](https://github.com/EesunMoon/On-device_Multimodal_ER)
-#### Mobile Intelligent Embedded System Laboratory, Sejong University - (Sep 2021 – Mar 2024)
+#### Mobile Intelligent Embedded System Laboratory, Sejong University (Sep 2021 – Mar 2024)
 - Led multimodal signal processing projects for government agencies and corporations, utilizing **TensorFlow** and **MongoDB** on **Linux**
 - Enhanced deep learning models for emotion recognition by integrating HR, EEG, speech, and image data through a score-based multimodal fusion method, achieving **99.68% classification accuracy**.
 - Optimized and embedded multimodal emotion recognition models into **NPUs** (Mobilint’s MLA100) for On-device AI, reducing **average power consumption by 3.12 times** and **latency by 1.48 times** for edge computing.
@@ -49,12 +49,6 @@ I worked as a **Research Assistant** at the **Mobile Intelligent Embedded System
 ### Stock Sentiment Analysis and Quantitative Modeling (Sep 2021 – Mar 2022) [📎](https://github.com/EesunMoon/JENQ)
 - Correlated stock prices with financial statements from 2020 to 2021 for 50 companies, building quantitative models using **PyTorch** and comparing linear regression with LSTM for stock trend predictions
 - Built a sentiment dictionary by extracting keywords from economic news articles using **BeautifulSoup**, analyzing stock price fluctuations within three days of publication to assess impact of keyword sentiment scores on stock prices
-
-
-<!---
-MoonEeSun/MoonEeSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 <!---
