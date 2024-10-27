@@ -36,7 +36,7 @@ I worked as a **Research Assistant** at the **Mobile Intelligent Embedded System
 
 ### Outfit Coordination Recommender System (Aug 2023 – Sep 2023) [📎](https://github.com/EesunMoon/genAI_Cor-Recom)
 - Developed a generative AI-based outfit recommender system by fine-tuning large language models for personalized suggestions
-- Constructed and preprocessed fine-tuning dataset of approximately 28,000 Q&A pairs using **KoNLP** to optimize **KoAlpaca** with **LoRA**, achieving **80% satisfaction rate** from faculty and peers compared to previous models.
+- Constructed and preprocessed fine-tuning dataset of approximately 28,000 Q&A pairs using **KoNLPy** to optimize **KoAlpaca** with **LoRA**, achieving **80% satisfaction rate** from faculty and peers compared to previous models.
 
 
 ### Spam Detection on Social Networking Services (Mar 2022 – Jun 2022) [📎](https://github.com/EesunMoon/spam_review_detection)
