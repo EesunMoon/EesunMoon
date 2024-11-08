@@ -1,4 +1,4 @@
-# Eesun Moon - ML/AI and Data Science Enthusiast
+# Eesun Moon
 
 I am currently pursuing a **Master of Science in Computer Science** at Columbia University, with a strong foundation in Machine Learning, Artificial Intelligence, and Natural Language Processing. I received my **Bachelor of Engineering** in Intelligent Mechatronics Engineering and Data Science from Sejong University in February 2024.
 
