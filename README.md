@@ -22,7 +22,7 @@ I worked as a **Research Assistant** at the **Mobile Intelligent Embedded System
 ### Machine Learning Engineer [📎]((https://github.com/EesunMoon/genai_soccer))
 #### Humaner (Mar 2024 – May 2024)
 - Developed a personalized support message generation system using **LangChain**, leveraging **OpenAI** and **RAG algorithms** to enhance message relevance and accuracy, while applying prompt engineering techniques to fine-tune model outputs
-- Deployed using **Docker** and **AWS EC2**, collaborating with front-end engineers to ensure communication during live photo events.
+- Deployed using **Docker** on **AWS EC2**, collaborating with front-end engineers to ensure communication during live photo events.
 - Delivered system to 500+ attendees at live photo events in professional soccer stadiums, increasing **user satisfaction by 20%**.
 
 ### Research Assistant [📎](https://github.com/EesunMoon/On-device_Multimodal_ER)
