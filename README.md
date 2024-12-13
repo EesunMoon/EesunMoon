@@ -12,7 +12,7 @@ I worked as a **Research Assistant** at the **Mobile Intelligent Embedded System
 | No. | Title | Status |
 |:---:|:---:|:---:|
 | 1 | **Eesun Moon**, A.S.M Sharifuzzaman Sugar, Hyung Seok Kim. "Multimodal Daily-life Emotional Recognition Using Heart Rate and Speech Data from Wearables." *IEEE Access*, vol. 12, pp. 96635-96648, 2024. [Link](https://doi.org/10.1109/ACCESS.2024.3427111) | Published in *IEEE Access* |
-| 2 | Taein Kim, **Eesun Moon**, Hoyeon Kang, Hyung Seok Kim. "OMER-NPU: On-device Multimodal Emotion Recognition on Neural Processing Unit for Low Latency and Power Consumption." *Neural Computing and Applications*. *In submission* | *Got Peer Review* | 
+| 2 | Taein Kim, **Eesun Moon**, Hoyeon Kang, Hyung Seok Kim. "OMER-NPU: On-device Multimodal Emotion Recognition on Neural Processing Unit for Low Latency and Power Consumption." *Neural Computing and Applications*. *In submission* | *Peer Review* | 
 | 3 | **Eesun Moon**, Hyungseok Kim. "Multi-modal Emotion Recognition Using Physiological Sensor and Speech." In *Proceedings of the 38th Annual Conference of ICROS 2023*. [Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11480498#a) | Published in *ICROS2023* |
 | 4 | A. S. M. Sharifuzzaman Sagar, Samsil Arefin, **Eesun Moon**, Md Masud Pervez Prince, L. Minh Dang, Hyung Seok Kim. "A Gaussian Process-Enhanced Non-Linear Function and Bayesian Convolution–Bayesian Long Term Short Memory Based Ultra-Wideband Range Error Mitigation Method for Line of Sight and Non-Line of Sight Scenarios." *Mathematics*, vol. 12, no. 23, pp. 3866, 2024. [Link](https://doi.org/10.3390/math12233866) | Published in *Mathematics* |
 
