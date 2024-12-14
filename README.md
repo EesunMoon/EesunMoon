@@ -21,30 +21,32 @@ I worked as a **Research Assistant** at the **Mobile Intelligent Embedded System
 
 ### Machine Learning Engineer [📎]((https://github.com/EesunMoon/genai_soccer))
 #### Humaner (Mar 2024 – May 2024)
-- Developed a personalized support message generation system using **LangChain**, leveraging **OpenAI** and **RAG algorithms** to enhance message relevance and accuracy, while applying prompt engineering techniques to fine-tune model outputs
-- Deployed using **Docker** on **AWS EC2**, collaborating with front-end engineers to ensure communication during live photo events.
-- Delivered system to 500+ attendees at live photo events in professional soccer stadiums, increasing **user satisfaction by 20%**.
+- Designed and implemented a personalized support message generation pipeline leveraging **LangChain**, **OpenAI**, and **RAG algorithms** to optimize message relevance and accuracy through prompt-tuning techniques
+-	Streamlined deployment with **Docker** on **AWS EC2**, integrating with Next.js front-end server for live photo booth events
+-	Delivered system to 500+ attendees at professional soccer stadiums, achieving **20% improvement in user satisfaction**
+
 
 ### Research Assistant [📎](https://github.com/EesunMoon/On-device_Multimodal_ER)
 #### Mobile Intelligent Embedded System Laboratory, Sejong University (Sep 2021 – Mar 2024)
-- Led multimodal signal processing projects for government agencies and corporations, utilizing **TensorFlow** and **MongoDB** on **Linux**
-- Enhanced deep learning models for emotion recognition by integrating HR, EEG, speech, and image data through a score-based multimodal fusion method, achieving **99.68% classification accuracy**.
-- Optimized and embedded multimodal emotion recognition models into **NPUs** (Mobilint’s MLA100) for On-device AI, reducing **average power consumption by 3.12 times** and **latency by 1.48 times** for edge computing.
-- Submitted papers to **IEEE** (Institute of Electrical and Electronics Engineers) and **NCAA** (Neural Computing and Applications), presented a poster at **ICROS** (Institute of Control, Robotics, and Systems), and delivered live demonstrations at **KIST** (Korea Institute of Science and Technology).
+-	Led multimodal emotion recognition projects for government and corporate initiatives, focusing on solutions for on-device AI, using **Python**, **TensorFlow**, and **MongoDB** on **Linux**
+-	Optimized deep learning models by integrating multiple data modalities (heart rate, electroencephalogram, speech, and image) through score-based fusion, **achieving 99.68% classification accuracy** without increasing network complexity
+-	Embedded and deployed ONNX-optimized models onto Mobilint’s MLA100 NPU, reducing **average power consumption by 3.12 times** and **latency by 1.48 times** for edge computing
+-	Published papers in **IEEE** (Institute of Electrical and Electronics Engineers) and **NCAA** (Neural Computing and Applications), presented a poster at **ICROS** (Institute of Control, Robotics, and Systems), and conducted real-time deployment demonstrations at **KIST** (Korea Institute of Science and Technology)
+
 
 ## Projects
 
-### Outfit Coordination Recommender System (Aug 2023 – Sep 2023) [📎](https://github.com/EesunMoon/genAI_Cor-Recom)
-- Developed a generative AI-based outfit recommender system by fine-tuning large language models for personalized suggestions
-- Constructed and preprocessed fine-tuning dataset of approximately 28,000 Q&A pairs using **KoNLPy** to optimize **KoAlpaca** with **LoRA**, achieving **80% satisfaction rate** from faculty and peers compared to previous models.
+### Database ETL of NYC Crime Analysis (Sep 2024 – Dec 2024) [📎](https://github.com/EesunMoon/genAI_Cor-Recom)
+•	Led development of a comprehensive database system to analyze NYC crime data by integrating two public datasets with **14 million+ raw records**, utilizing PostgreSQL for data management and relational mapping
+•	Preprocessed raw datasets to resolve inconsistencies, designed custom ER diagram, and implemented relational tables in **PostgreSQL**, enabling execution of **10+ complex queries** for in-depth crime pattern analysis
 
+### Outfit Coordination Recommender System (Aug 2023 – Sep 2023) [📎](https://github.com/EesunMoon/genAI_Cor-Recom)
+-	Developed generative AI-driven outfit recommender by fine-tuning **KoAlpaca** LLM with **PEFT-LoRA** for personalized suggestions
+-	Constructed fine-tuning dataset of 28,000 Q&A pairs using KoNLPy, achieving an **80% satisfaction rate** from faculty and peers compared to previous models
 
 ### Spam Detection on Social Networking Services (Mar 2022 – Jun 2022) [📎](https://github.com/EesunMoon/spam_review_detection)
-- Spearheaded an information retrieval project using text analysis and NLP to classify social media posts as potential advertisements.
-- Automated data collection with **Selenium**, analyzed text data sources using **KoNLPy**, and compared embedding techniques (TF-IDF, FastText, Doc2Vec, ELMo, BERT), achieving **0.8 cosine similarity** for advertisement classification.
-- Implemented ranking algorithms to sort posts by decreasing likelihood of being advertisements, leading to **30% increase** in detection
-- Awarded **1st place** in graduation project competition for demonstrating scalable spam detection solution in unstructured data.
-
+-	Spearheaded NLP-based spam detection project to classify social media posts as potential advertisements, addressing scalability in unstructured data, and awarded **1st place** in graduation project competition
+-	Automated data collection from social media platforms using **Selenium**, analyzed textual data, and implemented ranking algorithms to sort posts by decreasing the likelihood of being advertisements, achieving **0.8 cosine similarity** for classification accuracy
 
 ### Stock Sentiment Analysis and Quantitative Modeling (Sep 2021 – Mar 2022) [📎](https://github.com/EesunMoon/JENQ)
 - Correlated stock prices with financial statements from 2020 to 2021 for 50 companies, building quantitative models using **PyTorch** and comparing linear regression with LSTM for stock trend predictions
