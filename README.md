@@ -36,9 +36,9 @@ I worked as a **Research Assistant** at the **Mobile Intelligent Embedded System
 
 ## Projects
 
-### Database ETL of NYC Crime Analysis (Sep 2024 – Dec 2024) [📎](https://github.com/EesunMoon/genAI_Cor-Recom)
-•	Led development of a comprehensive database system to analyze NYC crime data by integrating two public datasets with **14 million+ raw records**, utilizing PostgreSQL for data management and relational mapping
-•	Preprocessed raw datasets to resolve inconsistencies, designed custom ER diagram, and implemented relational tables in **PostgreSQL**, enabling execution of **10+ complex queries** for in-depth crime pattern analysis
+### Database ETL of NYC Crime Analysis (Sep 2024 – Dec 2024) [📎](https://github.com/EesunMoon/DB-NYPD))
+- Led development of a comprehensive database system to analyze NYC crime data by integrating two public datasets with **14 million+ raw records**, utilizing PostgreSQL for data management and relational mapping
+-	Preprocessed raw datasets to resolve inconsistencies, designed custom ER diagram, and implemented relational tables in **PostgreSQL**, enabling execution of **10+ complex queries** for in-depth crime pattern analysis
 
 ### Outfit Coordination Recommender System (Aug 2023 – Sep 2023) [📎](https://github.com/EesunMoon/genAI_Cor-Recom)
 -	Developed generative AI-driven outfit recommender by fine-tuning **KoAlpaca** LLM with **PEFT-LoRA** for personalized suggestions
