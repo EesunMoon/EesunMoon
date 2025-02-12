@@ -6,7 +6,7 @@ I am currently pursuing a **Master of Science in Computer Science** at Columbia 
 Machine Learning, Artificial Intelligence, Data Science, Natural Language Processing (NLP), Multimodal Processing
 
 ## Publications
-I worked as a **Research Assistant** at the **Mobile Intelligent Embedded System Laboratory** at Sejong University from September 2021 to March 2024, under the supervision of **Professor Hyung Seok Kim**. During this time, I led several projects in AI and embedded systems, focusing on multimodal emotion recognition, edge computing, and human-robot interaction.
+I worked as a **Research Assistant** at the **Mobile Intelligent Embedded System Laboratory** at Sejong University from September 2021 to March 2024, under the supervision of **Professor Hyung Seok Kim**. During this time, I led a project on On-device Multimodal Emotion Recognition, focusing on deep learning, multimodal processing, and edge computing.
 | No. | Title | Status |
 |:---:|:---:|:---:|
 | 1 | **Eesun Moon**, A.S.M Sharifuzzaman Sugar, Hyung Seok Kim. "Multimodal Daily-life Emotional Recognition Using Heart Rate and Speech Data from Wearables." *IEEE Access*, vol. 12, pp. 96635-96648, 2024. [DOI](https://doi.org/10.1109/ACCESS.2024.3427111) | Published in *IEEE Access* |
