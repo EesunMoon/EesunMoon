@@ -34,15 +34,15 @@ I worked as a **Research Assistant** at the **Mobile Intelligent Embedded System
 
 ## Projects
 ### CS Advising Assistant Chatbot (Jan 2025 - Current) [📎](https://github.com/EesunMoon/CS_Advising_Assistant)
-- Reduced API costs by replacing OpenAI pipeline with Ollama-powered DeepSeek models, enabling local execution without external API calls.
-- Improved RAG algorithm performance by transitioning from OpenAI's vector search to DeepSeek-based retrieval, enhancing context-aware response generation.
-- Implemented LangChain Conversational Retrieval Chain to facilitate chain-of-thought reasoning, optimizing multi-step query processing.
+- Reduced API costs by replacing OpenAI pipeline with Ollama-powered DeepSeek models, enabling local execution without external API calls
+- Improved RAG algorithm performance by transitioning from OpenAI's vector search to DeepSeek-based retrieval, enhancing context-aware response generation
+- Implemented LangChain Conversational Retrieval Chain to facilitate chain-of-thought reasoning, optimizing multi-step query processing
   
 ### Word Embedding Analysis in LLMs (Jan 2025 - Current) [📎](https://github.com/EesunMoon/Word_Embedding_Analysis)
-Conducted sentence embedding analysis using Sentence Transformers (Sentence-BERT, Small LM) to improve NLP model performance.
-- Applied Zipf’s Law to analyze word frequency distribution and implemented ranking techniques for sentence similarity evaluation.
-- Investigated the role of context vectors in transformer-based models, analyzing their impact on downstream NLP tasks such as text classification and next-word prediction.
-- Explored self-attention mechanisms and layer-wise context representation to optimize model interpretability and generalization.
+Conducted sentence embedding analysis using Sentence Transformers (Sentence-BERT, Small LM) to improve NLP model performance
+- Applied Zipf’s Law to analyze word frequency distribution and implemented ranking techniques for sentence similarity evaluation
+- Investigated the role of context vectors in transformer-based models, analyzing their impact on downstream NLP tasks such as text classification and next-word prediction
+- Explored self-attention mechanisms and layer-wise context representation to optimize model interpretability and generalization
 
 ### Database ETL of NYC Crime Analysis (Sep 2024 – Dec 2024) [📎](https://github.com/EesunMoon/DB-NYPD)
 - Led development of a comprehensive database system to analyze NYC crime data by integrating two public datasets with **14 million+ raw records**, utilizing PostgreSQL for data management and relational mapping
