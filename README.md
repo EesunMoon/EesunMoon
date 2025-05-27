@@ -39,7 +39,7 @@ I worked as a **Research Assistant** at the **Mobile Intelligent Embedded System
 - Implemented LangChain Conversational Retrieval Chain to facilitate chain-of-thought reasoning, optimizing multi-step query processing
   
 ### Word Embedding Analysis in LLMs (Jan 2025 - May 2025) [📎](https://github.com/EesunMoon/Word_Embedding_Analysis)
-Conducted sentence embedding analysis using Sentence Transformers (Sentence-BERT, Small LM) to improve NLP model performance
+- Conducted sentence embedding analysis using Sentence Transformers (Sentence-BERT, Small LM) to improve NLP model performance
 - Applied Zipf’s Law to analyze word frequency distribution and implemented ranking techniques for sentence similarity evaluation
 - Investigated the role of context vectors in transformer-based models, analyzing their impact on downstream NLP tasks such as text classification and next-word prediction
 - Explored self-attention mechanisms and layer-wise context representation to optimize model interpretability and generalization
