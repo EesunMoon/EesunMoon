@@ -1,5 +1,5 @@
 # Eesun Moon
-I am a Master’s student in **Computer Science** at Columbia University, specializing in Machine Learning. I’ll be joining **Samsung Research America** in Mountain View, California as an **AI Algorithm/NPU Simulator Intern** from June to August 2025. Previously, I earned dual Bachelor’s degrees in **Intelligent Mechatronics Engineering** and **Data Science** from Sejong University in February 2024.
+I am a Master’s student in **Computer Science** at Columbia University, specializing in Machine Learning. From June to August 2025, I've worked at **Samsung Research America** in Mountain View, California as an **AI Algorithm/NPU Simulator Intern**. Previously, I earned dual Bachelor’s degrees in **Intelligent Mechatronics Engineering** and **Data Science** from Sejong University in February 2024.
 
 📄 [View Public Resume (PDF)](https://github.com/EesunMoon/EesunMoon/blob/main/Resume_Eesun%20Moon_github.pdf)
 
