@@ -17,7 +17,7 @@ Previously, I was a **Research Assistant** at the **Mobile Intelligent Embedded 
 | No. | Title | Status |
 |:--:|:------|:-------|
 | 1 | **Eesun Moon**, A.S.M Sharifuzzaman Sugar, Hyung Seok Kim. "Multimodal Daily-life Emotional Recognition Using Heart Rate and Speech Data from Wearables." *IEEE Access*, vol. 12, pp. 96635–96648, 2024. [DOI](https://doi.org/10.1109/ACCESS.2024.3427111) | Published in *IEEE Access* |
-| 2 | Taein Kim, **Eesun Moon**, Hoyeon Kang, Hyung Seok Kim. "OMER-NPU: On-device Multimodal Emotion Recognition on Neural Processing Unit for Low Latency and Power Consumption." *Neural Computing and Applications*. | *In press* |
+| 2 | Taein Kim, **Eesun Moon**, Hoyeon Kang, Hyung Seok Kim. "OMER-NPU: On-device Multimodal Emotion Recognition on Neural Processing Unit for Low Latency and Power Consumption." *Neural Computing and Applications*, [DOI](https://link.springer.com/article/10.1007/s00521-025-11368-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250603&utm_content=10.1007/s00521-025-11368-2). | Published in *NCAA* |
 | 3 | **Eesun Moon**, Hyungseok Kim. "Multi-modal Emotion Recognition Using Physiological Sensor and Speech." In *Proc. of the 38th Annual Conference of ICROS 2023*. [DOI](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11480498#a) | Published in *ICROS2023* |
 | 4 | A.S.M. Sagar, S. Arefin, **Eesun Moon**, et al. "A Gaussian Process-Enhanced Non-Linear Function and Bayesian Convolution–Bayesian LSTM for UWB Error Mitigation." *Mathematics*, vol. 12, no. 23, pp. 3866, 2024. [DOI](https://doi.org/10.3390/math12233866) | Published in *Mathematics* |
 
