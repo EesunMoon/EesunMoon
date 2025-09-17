@@ -4,12 +4,15 @@ I am a Master’s student in **Computer Science** at Columbia University, specia
 📄 [View Public Resume (PDF)](https://github.com/EesunMoon/EesunMoon/blob/main/Resume_Eesun%20Moon_github.pdf)
 
 ## Publications
-At Columbia, I worked on two research projects as a **Research Assistant** (Jan 2025 – May 2025):
+At Columbia, I worked on multiple research projects as a **Research Assistant**:
 
-- **Sentence Embedding Analysis in LLMs** with Prof. Venkat Venkatasubramanian @ CRIS Lab  
+- **Physics-Informed Reinforcement Learning** with Prof. Venkat Venkatasubramanian @ CRIS Lab (*Sep 2025 - Present*)
+  Developing a physics-informed RL framework applied to bird flocking, with a focus on (1) policy distillation and (2) trajectory prediction for future timesteps using only current configurations (e.g., positions and velocities).
+  
+- **Sentence Embedding Analysis in LLMs** with Prof. Venkat Venkatasubramanian @ CRIS Lab (*Jan 2025 - May 2025*)
   Explored the structure and interpretability of sentence embeddings in LLMs across layers and domains, evaluating clustering reliability using methods such as K-Means, DBSCAN, and GPT-based approaches.
 
-- **CS Advising Assistant Chatbot with Agentic Flow** with Prof. Vishal Misra  
+- **CS Advising Assistant Chatbot with Agentic Flow** with Prof. Vishal Misra (*Jan 2025 - May 2025*)
   Developed a LangChain-based chatbot using DeepSeek and Ollama, deployed on GCP with optimized RAG and agent-based multi-step reasoning.
 
 Previously, I was a **Research Assistant** at the **Mobile Intelligent Embedded System Laboratory** at Sejong University (Sep 2021 – Mar 2024), under **Prof. Hyung Seok Kim**, where I led a project on deep learning-based on-device multimodal emotion recognition.
